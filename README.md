@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ali</h1>
+<h1 align="center">Hi 👋, I'm Omar Momani</h1>
 
 ## 🧑‍💻 About Me
 
-- ⚙️ I’m working as Flutter Developer and Laravel Backend Developer
+- ⚙️ I’m working as Frontend Developer
 
 ## 🛠️ Language and Tools
 
