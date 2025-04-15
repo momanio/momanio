@@ -3,7 +3,7 @@
 <h3 align="center">💻 Frontend Developer | JavaScript | React | Angular</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E4277&center=true&vCenter=true&lines=Frontend+Developer+%F0%9F%92%BB;Laravel+%2B+React+Specialist;Love+Building+Clean+UI+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E4277&center=true&vCenter=true&lines=Frontend+Developer+%F0%9F%92%BB;Angular+%2B+React+Specialist;Building+Clean+UI+%E2%9C%A8;%F0%9F%93%9A" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-React-1e4277?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-E74430?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -62,12 +62,6 @@
 <!--END_SECTION:activity-->
 
 > 📝 _You can auto-generate this activity section with the [GitHub Readme Activity](https://github.com/Readme-Workflows/Readme-Activity) workflow._
-
----
-
-## 💡 Fun Fact
-
-> I’m always experimenting with side projects to learn faster. I love turning ideas into real things — and I believe clean UI is just as important as powerful backend logic.
 
 ---
 
