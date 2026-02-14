@@ -52,7 +52,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [omar-momani.vercel.app](https://omar-momani.vercel.app)
+- 🌐 Portfolio: [omarmomani.is-a.dev](https://omarmomani.is-a.dev)
 - 📧 Email: [o.a.momani@gmail.com](mailto:o.a.momani@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/momanio](https://www.linkedin.com/in/momanio)
 
